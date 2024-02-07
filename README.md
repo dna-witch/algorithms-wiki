@@ -12,7 +12,7 @@ This book is hosted online via GitHub Pages. This book was created with a GitHub
 
 ## Contributors
 
-We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/dna-witch/algo_book/graphs/contributors).
+We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/dna-witch/algorithms-wiki/graphs/contributors).
 
 ## Credits
 
